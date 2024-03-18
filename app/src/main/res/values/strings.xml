@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tugass</string>
+
+    <string name="forgot"><font color='c4c4c4'>Lupa detail login Anda? </font><b>Dapatkan bantuan untuk login.</b></string>
+
+    <string name="sign_up"><font color='c4c4c4'>Tidak punya akun? </font><b>Buat akun.</b></string>
+</resources>
